@@ -1,4 +1,4 @@
-# 💫 About Me:
+²# 💫 About Me:
 
 🔭 I’m currently working on  <br>Building my skills in web development by creating responsive websites, improving my coding skills, and designing user-friendly interfaces.<br><br>👯 I’m looking to collaborate on  <br>Beginner-friendly web development projects, UI/UX design projects, and creative website designs where I can learn and contribute.<br><br>🤝 I’m looking for help with  <br>Improving my front-end development skills, learning best practices in web development, and becoming better at creating modern and interactive websites.<br><br>🌱 I’m currently learning  <br>Front-End Development, UI/UX Design, 3D Graphic Design, and Backend Development. I’m currently exploring HTML, CSS, JavaScript, React, and design tools to improve my skills.<br><br>💬 Ask me about  <br>Website design, UI/UX ideas, learning journey as a BSIT student, and my experiences exploring web development and creative design.<br><br>⚡ Fun fact  <br>I love challenging myself by learning new technologies and creating designs. I enjoy turning ideas into websites and experimenting with creative layouts, visuals, and user experiences.
 
@@ -46,5 +46,5 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-can u enhance and better design my github profile like profissional no emoji and make motion design like professional 
+
 
