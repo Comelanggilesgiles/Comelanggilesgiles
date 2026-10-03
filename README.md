@@ -8,7 +8,7 @@
 
 ## 🌐 Socials:
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/zaphkieeel.) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/comelang.giles7) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_morphling) [![Pinterest](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Comelang Gilesgiles) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:comelanggilesgiles@gmail.com) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/zaphkieeel.) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/comelang.giles7) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_morphling) [![Pinterest](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:comelanggilesgiles@gmail.com) 
 
 
 
@@ -30,9 +30,6 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=Comelanggilesgiles&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=algolia)
 
 ### ✍️ Random Dev Quote
 
