@@ -83,10 +83,4 @@
   <img src="https://trophy.ryglcloud.net/?username=Comelanggilesgiles&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Giles Andrew's GitHub Trophies" />
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Comelanggilesgiles/Comelanggilesgiles/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Comelanggilesgiles/Comelanggilesgiles/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Comelanggilesgiles/Comelanggilesgiles/output/pacman-contribution-graph.svg">
-  </picture>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=Comelanggilesgiles&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
