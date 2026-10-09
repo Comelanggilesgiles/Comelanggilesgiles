@@ -4,7 +4,9 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Comelanggilesgiles&style=flat-square&color=0080FF&label=PROFILE+VIEWS)
 
-##  Socials:
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=25&pause=1000&color=FFFFFF&center=true&vCenter=true&width=200&lines=Socials:" alt="Socials" />
+</div>
 
 <div align="center">
 
