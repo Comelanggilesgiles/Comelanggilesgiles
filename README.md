@@ -22,9 +22,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=25&pause=1000&color=0080FF&center=true&vCenter=true&width=300&lines=Tech+Stack:" alt="Tech Stack:" />
 </div>
 
-<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=25&pause=1000&color=0080FF&center=true&vCenter=true&width=300&lines=Tech+Stack:" alt="Tech Stack:" />
 
 <!-- Core Frontend & Languages -->
 ![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
