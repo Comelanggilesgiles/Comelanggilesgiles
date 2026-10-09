@@ -52,7 +52,7 @@
 
 <!-- Left: Streak Stats | Right: GitHub Stats -->
 <a href="https://github.com/Comelanggilesgiles">
-  <img src="https://streak-stats.demolab.com/?user=Comelanggilesgiles&background=FFFFFF&border=0080FF&stroke=0080FF&ring=0080FF&fire=0080FF&currStreakNum=0080FF&sideNums=0080FF&sideLabels=0080FF&dates=0080FF&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Comelanggilesgiles&background=FFFFFF&border=0080FF&stroke=0080FF&ring=0080FF&fire=0080FF&currStreakNum=0080FF&sideNums=0080FF&sideLabels=0080FF&dates=0080FF&currStreakLabel=0080FF&hide_border=false" alt="GitHub Streak" />
 </a>
 <a href="https://github.com/Comelanggilesgiles">
   <img src="https://github-readme-stats.shion.dev/api?username=Comelanggilesgiles&bg_color=FFFFFF&border_color=0080FF&title_color=0080FF&text_color=0080FF&icon_color=0080FF&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
