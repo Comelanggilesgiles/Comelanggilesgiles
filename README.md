@@ -44,12 +44,21 @@
 ![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=FFFFFF)
 ![VSCode](https://img.shields.io/badge/VSCode-111?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF)
 
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=25&pause=1000&color=0080FF&center=true&vCenter=true&width=300&lines=GitHub+Stats:" alt="GitHub Stats:" />
+
+<br/>
+
+<!-- Left: Streak Stats | Right: GitHub Stats -->
+<a href="https://github.com/Comelanggilesgiles">
+  <img src="https://streak-stats.demolab.com/?user=Comelanggilesgiles&background=FFFFFF&border=0080FF&stroke=0080FF&ring=0080FF&fire=0080FF&currStreakNum=0080FF&sideNums=0080FF&sideLabels=0080FF&dates=0080FF&hide_border=false" alt="GitHub Streak" />
+</a>
+<a href="https://github.com/Comelanggilesgiles">
+  <img src="https://github-readme-stats.shion.dev/api?username=Comelanggilesgiles&bg_color=FFFFFF&border_color=0080FF&title_color=0080FF&text_color=0080FF&icon_color=0080FF&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+</a>
+
 </div>
-
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.shion.dev/api?username=Comelanggilesgiles&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> ![](https://streak-stats.demolab.com/?user=Comelanggilesgiles&theme=dark&hide_border=false)<br/>
-
 
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Comelanggilesgiles&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
