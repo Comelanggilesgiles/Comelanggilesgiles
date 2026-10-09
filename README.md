@@ -62,7 +62,11 @@
 
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Comelanggilesgiles&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Comelanggilesgiles&theme=flat&no-bg=true&column=6" alt="GitHub Trophies" />
+  </a>
+</div>
 
 
 
