@@ -61,11 +61,29 @@
 </div>
 
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Comelanggilesgiles&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Comelanggilesgiles&theme=flat&no-bg=true&column=6" alt="GitHub Trophies" />
-  </a>
+
+<!-- Top Languages Card (White Background, Blue Border, Blue Text) -->
+<a href="https://github.com/Comelanggilesgiles">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Comelanggilesgiles&bg_color=FFFFFF&border_color=0080FF&title_color=0080FF&text_color=0080FF&icon_color=0080FF&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Most Used Languages" />
+</a>
+
+<br/><br/>
+
+<!-- Side-by-Side: Trophies on Left | Gundam Image on Right -->
+<table border="0">
+  <tr>
+    <td align="center" valign="middle">
+      <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=Comelanggilesgiles&theme=flat&no-bg=true&column=3" alt="GitHub Trophies" />
+      </a>
+    </td>
+    <td align="center" valign="middle">
+      <img width="300" height="200" alt="Gundam GIF" src="https://github.com/user-attachments/assets/c5dddf19-1754-4f17-964c-fd367b4b1701" />
+    </td>
+  </tr>
+</table>
+
 </div>
 
 
