@@ -80,10 +80,8 @@
 </div>
 
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=Comelanggilesgiles&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Giles Andrew's GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Comelanggilesgiles&theme=flat&no-bg=true&no-frame=true&title=FFFFFF&text=FFFFFF&icon=FFFFFF&laurel=0080FF&margin-w=4" alt="Giles Andrew's GitHub Trophies" />
 </p>
-
-
 
 
 
