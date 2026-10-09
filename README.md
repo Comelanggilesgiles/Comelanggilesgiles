@@ -2,7 +2,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=30&pause=1000&color=0080FF&center=true&vCenter=true&width=435&lines=Frontend+Developer;The+world+is+yours." alt="Typing SVG" /></a>
 </div>
 
-
+![Profile Views](https://komarev.com/ghpvc/?username=Comelanggilesgiles&style=flat-square&color=0080FF&label=PROFILE+VIEWS)
 
 ## 🌐 Socials:
 
