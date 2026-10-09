@@ -19,24 +19,30 @@
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=25&pause=1000&color=0080FF&center=true&vCenter=true&width=300&lines=Tech+Stack:" alt="Tech Stack:" />
-</div>
 
+<img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=25&pause=1000&color=0080FF&center=true&vCenter=true&width=300&lines=Tech+Stack:" alt="Tech Stack:" />
 
+<!-- Frontend & Design -->
+![React](https://img.shields.io/badge/React-111?style=for-the-badge&logo=react&logoColor=FFFFFF)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-111?style=for-the-badge&logo=tailwindcss&logoColor=FFFFFF)
+![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript&logoColor=FFFFFF)
+![TypeScript](https://img.shields.io/badge/TypeScript-111?style=for-the-badge&logo=typescript&logoColor=FFFFFF)
+![HTML5](https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5&logoColor=FFFFFF)
+![CSS3](https://img.shields.io/badge/CSS3-111?style=for-the-badge&logo=css3&logoColor=FFFFFF)
+![Figma](https://img.shields.io/badge/Figma-111?style=for-the-badge&logo=figma&logoColor=FFFFFF)
 
-<!-- Core Frontend & Languages -->
-![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-111?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![HTML5](https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-111?style=for-the-badge&logo=css3&logoColor=1572B6)
+<!-- Backend & Databases -->
+![C#](https://img.shields.io/badge/C%23-111?style=for-the-badge&logo=csharp&logoColor=FFFFFF)
+![PHP](https://img.shields.io/badge/PHP-111?style=for-the-badge&logo=php&logoColor=FFFFFF)
+![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python&logoColor=FFFFFF)
+![Firebase](https://img.shields.io/badge/Firebase-111?style=for-the-badge&logo=firebase&logoColor=FFFFFF)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111?style=for-the-badge&logo=postgresql&logoColor=FFFFFF)
 
-<!-- UI / UX Design Tools -->
-![Figma](https://img.shields.io/badge/Figma-111?style=for-the-badge&logo=figma&logoColor=F24E1E)
-
-<!-- Other Languages & Developer Tools -->
-![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python&logoColor=3776AB)
+<!-- DevOps & Tools -->
+![Docker](https://img.shields.io/badge/Docker-111?style=for-the-badge&logo=docker&logoColor=FFFFFF)
+![Git](https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git&logoColor=FFFFFF)
 ![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=FFFFFF)
-![VSCode](https://img.shields.io/badge/VSCode-111?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+![VSCode](https://img.shields.io/badge/VSCode-111?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF)
 
 </div>
 
