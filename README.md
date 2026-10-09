@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=20&pause=1000&color=0080FF&center=true&vCenter=true&width=800&height=100&lines=Frontend+Developer;To+bring+anything+new+into+the+world%2C+you+must+first+dream+it.;The+deeper+you+imagine%2C+the+richer+your+creations+become." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=28&pause=1000&color=0080FF&center=true&vCenter=true&width=900&height=120&lines=Frontend+Developer;To+bring+anything+new+into+the+world%2C+you+must+first+dream+it.;The+deeper+you+imagine%2C+the+richer+your+creations+become." alt="Typing SVG" /></a>
 </div>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Comelanggilesgiles&style=flat-square&color=0080FF&label=PROFILE+VIEWS)
