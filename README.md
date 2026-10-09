@@ -71,19 +71,19 @@
 <br/><br/>
 
 <!-- Side-by-Side: Trophies on Left | Gundam Image on Right -->
-<table border="0">
-  <tr>
-    <td align="center" valign="middle">
-      <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=Comelanggilesgiles&theme=flat&no-bg=true&column=3" alt="GitHub Trophies" />
-      </a>
-    </td>
-    <td align="center" valign="middle">
-      <img width="300" height="200" alt="Gundam GIF" src="https://github.com/user-attachments/assets/c5dddf19-1754-4f17-964c-fd367b4b1701" />
-    </td>
-  </tr>
-</table>
-
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center" valign="middle">
+        <a href="https://github.com/ryo-ma/github-profile-trophy">
+          <img src="https://github-profile-trophy.vercel.app/?username=Comelanggilesgiles&theme=flat&no-bg=true&column=3" alt="GitHub Trophies" />
+        </a>
+      </td>
+      <td align="center" valign="middle">
+        <img src="https://giffiles.alphacoders.com/208/208518.gif" width="300" alt="Anime GIF" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 
