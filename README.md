@@ -4,10 +4,16 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Comelanggilesgiles&style=flat-square&color=0080FF&label=PROFILE+VIEWS)
 
-## 🌐 Socials:
+##  Socials:
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/zaphkieeel.) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/comelang.giles7) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_morphling) [![Pinterest](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:comelanggilesgiles@gmail.com) 
+<div align="center">
 
+[![Discord](https://img.shields.io/badge/Discord-111?style=for-the-badge&logo=discord&logoColor=FFFFFF)](https://discord.gg/zaphkieeel.)
+[![Facebook](https://img.shields.io/badge/Facebook-111?style=for-the-badge&logo=facebook&logoColor=FFFFFF)](https://facebook.com/comelang.giles7)
+[![Instagram](https://img.shields.io/badge/Instagram-111?style=for-the-badge&logo=instagram&logoColor=FFFFFF)](https://instagram.com/_morphling)
+[![Email](https://img.shields.io/badge/Email-111?style=for-the-badge&logo=gmail&logoColor=FFFFFF)](mailto:comelanggilesgiles@gmail.com)
+
+</div>
 
 
 # 💻 Tech Stack:
