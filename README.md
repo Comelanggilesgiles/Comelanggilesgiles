@@ -63,20 +63,13 @@
 
 <div align="center">
 
-<!-- Top Languages Card (White Background, Blue Border, Blue Text) -->
-<a href="https://github.com/Comelanggilesgiles">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Comelanggilesgiles&bg_color=FFFFFF&border_color=0080FF&title_color=0080FF&text_color=0080FF&icon_color=0080FF&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Most Used Languages" />
-</a>
 
-<br/><br/>
-
-<!-- Side-by-Side: Trophies on Left | Gundam Image on Right -->
 <div align="center">
   <table border="0">
     <tr>
       <td align="center" valign="middle">
-        <a href="https://github.com/ryo-ma/github-profile-trophy">
-          <img src="https://github-profile-trophy.vercel.app/?username=Comelanggilesgiles&theme=flat&no-bg=true&column=3" alt="GitHub Trophies" />
+        <a href="https://github.com/Comelanggilesgiles">
+          <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Comelanggilesgiles&bg_color=FFFFFF&border_color=0080FF&title_color=0080FF&text_color=0080FF&icon_color=0080FF&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Most Used Languages" />
         </a>
       </td>
       <td align="center" valign="middle">
