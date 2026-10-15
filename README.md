@@ -55,6 +55,8 @@
 ![Git](https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git&logoColor=FFFFFF)
 ![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=FFFFFF)
 ![VSCode](https://img.shields.io/badge/VSCode-111?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF)
+![Tinkercad](https://img.shields.io/badge/Tinkercad-111?style=for-the-badge&logo=tinkercad&logoColor=FFFFFF)
+![Arduino](https://img.shields.io/badge/Arduino-111?style=for-the-badge&logo=arduino&logoColor=FFFFFF)
 
 <div align="center">
 
