@@ -42,6 +42,13 @@
 ![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python&logoColor=FFFFFF)
 ![Firebase](https://img.shields.io/badge/Firebase-111?style=for-the-badge&logo=firebase&logoColor=FFFFFF)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111?style=for-the-badge&logo=postgresql&logoColor=FFFFFF)
+![Java](https://img.shields.io/badge/Java-111?style=for-the-badge&logo=openjdk&logoColor=FFFFFF)
+![SQLite](https://img.shields.io/badge/SQLite-111?style=for-the-badge&logo=sqlite&logoColor=FFFFFF)
+![MariaDB](https://img.shields.io/badge/MariaDB-111?style=for-the-badge&logo=mariadb&logoColor=FFFFFF)
+![MySQL](https://img.shields.io/badge/MySQL-111?style=for-the-badge&logo=mysql&logoColor=FFFFFF)
+![MongoDB](https://img.shields.io/badge/MongoDB-111?style=for-the-badge&logo=mongodb&logoColor=FFFFFF)
+![Laravel](https://img.shields.io/badge/Laravel-111?style=for-the-badge&logo=laravel&logoColor=FFFFFF)
+![Node.js](https://img.shields.io/badge/Node.js-111?style=for-the-badge&logo=nodedotjs&logoColor=FFFFFF)
 
 <!-- DevOps & Tools -->
 ![Docker](https://img.shields.io/badge/Docker-111?style=for-the-badge&logo=docker&logoColor=FFFFFF)
