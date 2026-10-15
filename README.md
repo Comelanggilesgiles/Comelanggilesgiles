@@ -24,12 +24,17 @@
 
 <!-- Frontend & Design -->
 ![React](https://img.shields.io/badge/React-111?style=for-the-badge&logo=react&logoColor=FFFFFF)
+![Angular](https://img.shields.io/badge/Angular-111?style=for-the-badge&logo=angular&logoColor=FFFFFF)
+![Vue.js](https://img.shields.io/badge/Vue.js-111?style=for-the-badge&logo=vuedotjs&logoColor=FFFFFF)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-111?style=for-the-badge&logo=tailwindcss&logoColor=FFFFFF)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-111?style=for-the-badge&logo=bootstrap&logoColor=FFFFFF)
+![Sass](https://img.shields.io/badge/Sass-111?style=for-the-badge&logo=sass&logoColor=FFFFFF)
 ![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript&logoColor=FFFFFF)
 ![TypeScript](https://img.shields.io/badge/TypeScript-111?style=for-the-badge&logo=typescript&logoColor=FFFFFF)
 ![HTML5](https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5&logoColor=FFFFFF)
 ![CSS3](https://img.shields.io/badge/CSS3-111?style=for-the-badge&logo=css3&logoColor=FFFFFF)
 ![Figma](https://img.shields.io/badge/Figma-111?style=for-the-badge&logo=figma&logoColor=FFFFFF)
+![Adobe](https://img.shields.io/badge/Adobe-111?style=for-the-badge&logo=adobe&logoColor=FFFFFF)
 
 <!-- Backend & Databases -->
 ![C#](https://img.shields.io/badge/C%23-111?style=for-the-badge&logo=csharp&logoColor=FFFFFF)
