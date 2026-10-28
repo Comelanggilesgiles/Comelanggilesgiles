@@ -104,3 +104,5 @@
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Comelanggilesgiles/Comelanggilesgiles/output/pacman-contribution-graph.svg">
   </picture>
 </p>
+
+* :)
